@@ -50,8 +50,8 @@ Me estoy enfocando en aprender y mejorar mis habilidades en:
     <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
   </a>
   <a href="https://angular.io/" target="_blank">
-    <img src="https://img.shields.io-badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+</a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   </a>
