@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/angelohw1/angelohw1/blob/master/assets/coming-soon-7166_256.gif" width="120" alt="Animación">
+  <img src="https://github.com/angelohw1/angelohw1/blob/master/assets/coming-soon-7166_256.gif" width="250" alt="Animación">
 </p>
 
 ---
