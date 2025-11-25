@@ -18,6 +18,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/angelohw1/angelohw/main/assets/loading-13406_512.gif" width="120" alt="Animación">
+</p>
+
 ---
 
 ## 🎯 Sobre mí
